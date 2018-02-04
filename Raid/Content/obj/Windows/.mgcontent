@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/bullet.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/Coin.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/enemy.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/tangga.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/Ammo.spritefont</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/Score.spritefont</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/PName.spritefont</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/player_d.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/player_l.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/player_r.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/player_up.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/trigger.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/hati.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/background.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/celling.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/Sync_wall.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/box_weapon.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/bg.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/img/play_button.png</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/label.spritefont</File>
+    <File>C:/Users/AhmadArsyel/source/repos/Tubes PBO/Raid/Content/scorelist.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
